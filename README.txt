@@ -1,16 +1,5 @@
-Group Info
-
-Lab Index: TEL1
-
-Group members:
-Jonathan Lu Yu Kit (U2110030L)
-Wong Kai Jie (U2110245B)
-Stephen Yu Kai Xuan (U2230595J)
-Yehuda Nathan (U2020412D)
-
 Prerequisites
 
-python 3.11.4
 graphviz executable from https://graphviz.org/download/
 
 Getting Started
